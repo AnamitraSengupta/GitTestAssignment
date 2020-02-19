@@ -7,3 +7,5 @@ changed in bug branch
 changed in master branch
 
 changed in Idea branch
+
+first change after creating remote
